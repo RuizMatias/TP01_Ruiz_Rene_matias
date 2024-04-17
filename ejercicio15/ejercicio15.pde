@@ -1,0 +1,11 @@
+float a,b,suma,resta,producto,division;
+a=4;
+b=5;
+suma=a+b;
+resta=a-b;
+producto=a*b;
+division=a/b;
+println(suma);
+println(resta);
+println(producto);
+println(division);
